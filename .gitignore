@@ -1,0 +1,9 @@
+config.py
+__pycache__
+venv
+.idea
+config2.py
+list.py
+exist.py
+requirements.txt
+exist.py
